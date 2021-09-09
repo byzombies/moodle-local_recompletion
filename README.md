@@ -1,3 +1,4 @@
+[![Moodle Plugin CI](https://github.com/byzombies/moodle-local_recompletion/actions/workflows/ci.yml/badge.svg)](https://github.com/byzombies/moodle-local_recompletion/actions/workflows/ci.yml)
 The recompletion plugin is supported and maintained by Dan Marsden
 
 Branches
